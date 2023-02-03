@@ -1,4 +1,4 @@
 # java-workspace
 
-kh 람다식 실습
+kh 람다식 streamAPI 실습
 (230127 ~ 230131)
